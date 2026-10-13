@@ -1,0 +1,6 @@
+{
+  "name": "Chinh Phục Số Thập Phân - Luyện Toán Tiểu Học",
+  "description": "Ứng dụng luyện tập toàn diện về số thập phân: khái niệm, các hàng, đọc viết, so sánh, số thập phân bằng nhau và đổi đơn vị đo. Chấm điểm tức thì, giải thích chi tiết, âm thanh sinh động và cúp khen thưởng vinh danh học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
